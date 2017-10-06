@@ -91,7 +91,7 @@ dt, dd, blockquote, address{
 .card img { width: 50%; }
 
 .card.is-active {
-	box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 12px -2px;
+	border: 2px solid #9c27b0;
 }
 
 .card.is-active img { width: 55%; }
