@@ -85,13 +85,13 @@ dt, dd, blockquote, address{
 	justify-content: center;
 	padding: 1rem;
 	background-color: #f6f6f6;
-	transition: outline 0.2s, box-shadow 0.2s; 
+	transition: outline 0.2s; 
 }
 
 .card img { width: 50%; }
 
 .card.is-active {
-	border: 2px solid #9c27b0;
+	outline: 2px solid #9c27b0;
 }
 
 .card.is-active img { width: 55%; }
