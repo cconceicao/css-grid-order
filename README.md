@@ -1,6 +1,6 @@
 <h2 align="center">CSS grid order example</h2>
 <p align="center">
-  <img width="500" src="extras/css-grid-order.gif">
+  
 </p>
 
 <p>In this experiment, the sorting of the items is done with JS and the CSS Grid order property.
